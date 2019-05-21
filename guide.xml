@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ČT 1">
+    <display-name lang="sk">ČT 1</display-name>
+    <icon src="https://www.satelitnatv.sk" />
+    <url>http://www.satelitnatv.sk</url>
+  </channel>
+  <programme start="20190521010000 +0200" stop="20190521012500 +0200" channel="ČT 1">
+    <title lang="sk">Pod pokličkou</title>
+    <desc lang="sk">Zásobárny zdravých tuků (2008). Co všechno nevíme a víme o tom, co pijeme a jíme(n)</desc>
+  </programme>
+  <programme start="20190521012500 +0200" stop="20190521015500 +0200" channel="ČT 1">
+    <title lang="sk">Z metropole</title>
+  </programme>
+  <programme start="20190521015500 +0200" stop="20190521021000 +0200" channel="ČT 1">
+    <title lang="sk">Kalendárium</title>
+    <desc lang="sk">Zajímavá výročí týdne uvádí Saskia Burešová(n)</desc>
+  </programme>
+  <programme start="20190521021000 +0200" stop="20190521021500 +0200" channel="ČT 1">
+    <title lang="sk">Sváteční slovo husitského biskupa Juraje Dovaly</title>
+    <desc lang="sk">Milujme Boha v jeho díle(n)</desc>
+  </programme>
+  <programme start="20190521021500 +0200" stop="20190521044500 +0200" channel="ČT 1">
+    <title lang="sk">Dobré ráno</title>
+    <desc lang="sk">Startovací dávka pohody. Ranní show České televize(n)</desc>
+  </programme>
+  <programme start="20190521044500 +0200" stop="20190521051000 +0200" channel="ČT 1">
+    <title lang="sk">Žiješ jenom 2x, Z učebny chemie do podzemí</title>
+    <desc lang="sk">Paní Jarmila celý život učila chemii a geologii a snila o tom, že se zúčastní speleologické výpravy, aby si kameny a skály prohlédla „zevnitř“. Jarmila se ale bojí výšek – i hloubek. Překoná samu sebe? (2013). Režie R. Motyčka(n)</desc>
+  </programme>
+  <programme start="20190521051000 +0200" stop="20190521053000 +0200" channel="ČT 1">
+    <title lang="sk">Černé ovce</title>
+    <desc lang="sk">Nebojte se bojovat za svá práva - pomůžeme vám! Reportáže, testy, rady(n)</desc>
+  </programme>
+  <programme start="20190521053000 +0200" stop="20190521055900 +0200" channel="ČT 1">
+    <title lang="sk">Události v regionech</title>
+  </programme>
+  <programme start="20190521055900 +0200" stop="20190521090000 +0200" channel="ČT 1">
+    <title lang="sk">Studio 6</title>
+    <desc lang="sk">Zpravodajský náskok do nového dne. Ranní infoservis ČT(n)</desc>
+  </programme>
+  <programme start="20190521090000 +0200" stop="20190521094500 +0200" channel="ČT 1">
+    <title lang="sk">To je vražda, napsala XII, Něco shnilého ve Flappieville</title>
+    <desc lang="sk">Bývalá učitelka a spisovatelka Jessica Fletcherová s úspěchem řeší kriminální případy. Americký seriál (1984-1996). V hlavní roli Angela Lansburyová. Režie Anthony Shaw(n)</desc>
+  </programme>
+  <programme start="20190521094500 +0200" stop="20190521104000 +0200" channel="ČT 1">
+    <title lang="sk">Příběhy slavných... Jaroslav Marvan – 45 let od úmrtí, Soukromé životy, Jári</title>
+    <desc lang="sk">Policejní rada Vacátko z legendárního seriálu Hříšní lidé Města pražského, národem milovaný herec, který nás opustil před 45 lety, v mnoha ukázkách i očima svých blízkých (2003). Vzpomínají: R. Brzobohatý, F. Filip, A. Moskalyk, J. Sequens, J. Vinklář a další. Režie D. Bonaventura(n)</desc>
+  </programme>
+  <programme start="20190521104000 +0200" stop="20190521113000 +0200" channel="ČT 1">
+    <title lang="sk">Šahrazád</title>
+    <desc lang="sk">Pohádka na motivy příběhů Tisíce a jedné noci (1985). Hrají: I. Konvalinová, V. Krátký, M. Donutil, J. Pecha, B. Rychlík a další. Scénář K. Tachovský. Kamera P. Šindelář. Režie E. Sokolovský ml(n)</desc>
+  </programme>
+  <programme start="20190521113000 +0200" stop="20190521120000 +0200" channel="ČT 1">
+    <title lang="sk">AZ-kvíz</title>
+  </programme>
+  <programme start="20190521120000 +0200" stop="20190521122000 +0200" channel="ČT 1">
+    <title lang="sk">Zprávy ve 12</title>
+    <desc lang="sk">Nejdůležitější události dne v ČR i ve světě(n)</desc>
+  </programme>
+  <programme start="20190521122000 +0200" stop="20190521123000 +0200" channel="ČT 1">
+    <title lang="sk">Předpověď počasí, sportovní zprávy</title>
+  </programme>
+  <programme start="20190521123000 +0200" stop="20190521140000 +0200" channel="ČT 1">
+    <title lang="sk">Sama doma</title>
+    <desc lang="sk">Být doma neznamená hloupnout. Radosti a strasti na rodičovské dovolené(n)</desc>
+  </programme>
+  <programme start="20190521140000 +0200" stop="20190521142500 +0200" channel="ČT 1">
+    <title lang="sk">Všechno, co mám ráda</title>
+    <desc lang="sk">Energická moderátorka Eva přichází s nápady, recepty a návody, jak si vylepšit a zpříjemnit domov. Připravili: J. Timková, E. Vrbková, J. Pivoňka, M. Herz a další(n)</desc>
+  </programme>
+  <programme start="20190521142500 +0200" stop="20190521150500 +0200" channel="ČT 1">
+    <title lang="sk">Zpěváci na kraji nemocnice</title>
+    <desc lang="sk">Populární zpěvák Jiří Korn, jenž v těchto dnech oslavil 70. narozeniny, paroduje společně s Helenou Vondráčkovou, Evou Pilarovou a Marií Rottrovou legendární český seriál Jaroslava Dietla (1982). Dále hrají a zpívají: P. Filipovská, P. Černocká, M. Drobný, L. Štaidl, M. Chladil, K. Černoch a další. ..(n)</desc>
+  </programme>
+  <programme start="20190521150500 +0200" stop="20190521155500 +0200" channel="ČT 1">
+    <title lang="sk">Doktor Martin, Tik tak</title>
+    <desc lang="sk">Radosti a strasti londýnského lékaře v malém přímořském městečku. Britský seriál (2007). Hrají: M. Clunes, C. Catzová, I. McNeice, S. Coleová, J. Absolom a další. Režie Ben Bolt(n)</desc>
+  </programme>
+  <programme start="20190521155500 +0200" stop="20190521164500 +0200" channel="ČT 1">
+    <title lang="sk">To je vražda, napsala XII, Vojákova stopa</title>
+    <desc lang="sk">Bývalá učitelka a spisovatelka Jessica Fletcherová s úspěchem řeší kriminální případy. Americký seriál (1984-1996). V hlavní roli Angela Lansburyová. Režie Vincent McEveety(n)</desc>
+  </programme>
+  <programme start="20190521164500 +0200" stop="20190521174000 +0200" channel="ČT 1">
+    <title lang="sk">Vysílací čas vyhrazený pro kandidující politické strany, politická hnutí a koalice</title>
+    <desc lang="sk">– HD – ST –(n)</desc>
+  </programme>
+  <programme start="20190521174000 +0200" stop="20190521180000 +0200" channel="ČT 1">
+    <title lang="sk">Černé ovce</title>
+    <desc lang="sk">Nebojte se bojovat za svá práva - pomůžeme vám! Reportáže, testy, rady(n)</desc>
+  </programme>
+  <programme start="20190521180000 +0200" stop="20190521182500 +0200" channel="ČT 1">
+    <title lang="sk">Události v regionech</title>
+    <desc lang="sk">Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí v krajích České republiky(n)</desc>
+  </programme>
+  <programme start="20190521182500 +0200" stop="20190521185500 +0200" channel="ČT 1">
+    <title lang="sk">Kde domov můj?</title>
+    <desc lang="sk">Zábavná vědomostní soutěž. Moderuje Aleš Háma. Režie Z. Fiala(n)</desc>
+  </programme>
+  <programme start="20190521185500 +0200" stop="20190521190000 +0200" channel="ČT 1">
+    <title lang="sk">Události za okamžik a počasí</title>
+    <desc lang="sk">Hlavní události a předpověď počasí(n)</desc>
+  </programme>
+  <programme start="20190521190000 +0200" stop="20190521195000 +0200" channel="ČT 1">
+    <title lang="sk">Události</title>
+    <desc lang="sk">Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě(n)</desc>
+  </programme>
+  <programme start="20190521195000 +0200" stop="20190521200000 +0200" channel="ČT 1">
+    <title lang="sk">Branky, body, vteřiny</title>
+  </programme>
+  <programme start="20190521200000 +0200" stop="20190521214500 +0200" channel="ČT 1">
+    <title lang="sk">Eliška Balzerová – 70 let, Láska je láska</title>
+    <desc lang="sk">Letošní jubilantka Eliška Balzerová a Petr Nárožný v divácky úspěšném koprodukčním komediálním filmu o lidech, kteří přes nepříznivý osud touží po pravdivém a láskou naplněném životě (2012). Dále hrají: A. Krejčíková, M. Cymorek, S. Stašová, O. Vetchý, P. Vančura a další. Scénář M. Horský. Kamera M...(n)</desc>
+  </programme>
+  <programme start="20190521214500 +0200" stop="20190521231900 +0200" channel="ČT 1">
+    <title lang="sk">Columbo, Columbo na univerzitě</title>
+    <desc lang="sk">Pomačkaný baloňák, laciný doutník, vysloužilé auto - a geniální detektivní mozek. Peter Falk v hlavní roli amerického seriálu (1990). Dále hrají: S. Caffrey, G. Hershberger, J. Sutorius, W. Lucking, K. Cannonová a další. Režie E. W. Swackhamer(n)</desc>
+  </programme>
+  <programme start="20190521231900 +0200" stop="20190521232000 +0200" channel="ČT 1">
+    <title lang="sk">Výsledky losování Šťastných 10 a Euromiliony</title>
+  </programme>
+</tv>
